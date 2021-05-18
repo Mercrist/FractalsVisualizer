@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"vector": "cpp",
+			"random": "cpp",
+			"cmath": "cpp",
+			"complex": "cpp",
+			"*.ipp": "cpp",
+			"string_view": "cpp",
+			"regex": "cpp",
+			"tuple": "cpp"
+		}
+	}
+}
